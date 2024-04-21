@@ -6,6 +6,9 @@ We are a group of five students from the University of Konstanz and participated
 Our project uses a multi-stage pipeline to scrape and filter news articles to simplify the work of the IMO agents. The pipeline makes use of the zero-shot capabilities of Large Language Models to find relevant articles and extract important information.
 A strength of the pipeline is the human-AI interaction, which allows the IMO agents to review the data and make necessary changes. This ensures high data quality while keeping the process efficient.
 
+![image](https://github.com/DataWave-Bodensee/.github/assets/39091877/7aee2991-25fc-460c-890b-01a5eb74b5f3)
+
+
 ### Deployment
 All components (containers, databases, and registry) of this project are deployed in Microsoft Azure \
 The demo is publicly available [https://missing-migrants.azurewebsites.net](https://missing-migrants.azurewebsites.net/)
